@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel
-- 👀 I’m interested in a lot
-- 🌱 I’m currently learning a lot of stuff.
+- 👀 I’m fluent in Python, Java, and C++
+- 🌱 I’m currently learning about generative adversarial networks in use for image generation.
 
 <!---
 joelbeedle/joelbeedle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
