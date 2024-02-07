@@ -24,7 +24,7 @@
 I'm a driven MEng Computer Science student, currently in my 4th year, with a passion for Software Engineering, Aerospace Engineering, and Machine Learning.
 
 - 🌐 Check out my [portfolio](http://www.joelbeedle.net) and [LinkedIn](https://www.linkedin.com/in/joel-beedle-163411215/)
-- 🛠️ Languages: Python, Java, C#, C/C++
+- 🛠️ Languages: C/C++, Python, Java, Javascript, C#, Rust, Haskell
 - 🧠 Currently learning about applications of **Swarm Intelligence** and **Edge Computing** 
 - 🚀 Interested in **Autonommous Software Engineering**, **Aerospace Engineering**, and **Machine Learning**
 - 💼 Open to job opportunities and collaborations
