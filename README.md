@@ -39,7 +39,7 @@ I'm a driven MEng Computer Science student, currently in my 4th year, with a pas
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,c,cpp&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,cs,rust,haskell&perline=14" />
   </a>
 </p>
 
