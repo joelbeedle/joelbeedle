@@ -13,14 +13,14 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">4th Year MEng Computer Science Student</h2></summary>
+    <summary><h2 style="display: inline-block">MEng Computer Science Graduate</h2></summary>
     <summary><h3 style="display: inline-block">University of York</h3></summary>
   </ul>
 </div>
 
 
 
-I'm a driven MEng Computer Science student, currently in my 4th year, with a passion for Software Engineering, Aerospace Engineering, and Machine Learning.
+I'm a driven MEng Computer Science graduate, with a passion for software, aerospace, machine learning, swarms, and systems.
 
 - 🌐 Check out my [portfolio](http://www.joelbeedle.net) and [LinkedIn](https://www.linkedin.com/in/joel-beedle-163411215/)
 - 🛠️ Languages: C/C++, Python, Java, Javascript, C#, Rust, Haskell
