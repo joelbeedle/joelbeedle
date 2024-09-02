@@ -44,14 +44,14 @@ I'm a driven MEng Computer Science graduate, with a passion for software, aerosp
 <p align="center"><b>Frameworks</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,django,dotnet,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,spring,django,dotnet,react,nextjs&perline=14" />
   </a>
 </p>
 
 <p align="center"><b>Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,jenkins,docker,aws,gcp,vim,vscode,visualstudio,mysql,mongodb,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,docker,aws,gcp,vim,vscode,visualstudio,mysql,mongodb,&perline=5" />
   </a>
 </p>
 <!--horizontal divider-->
