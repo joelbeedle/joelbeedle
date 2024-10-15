@@ -22,7 +22,7 @@
 I'm a driven MEng Computer Science graduate, with a passion for software, aerospace, machine learning, swarms, and systems.
 
 - 🌐 Check out my [portfolio](http://www.joelbeedle.net) and [LinkedIn](https://www.linkedin.com/in/joel-beedle-163411215/)
-- 🛠️ Languages: C/C++, Python, Java, Javascript, C#, Rust, Haskell
+- 🛠️ Languages: C/C++, Python, Java, TypeScript, C#, Rust, Haskell
 - 🧠 Currently learning about applications of **Swarm Intelligence** and **Edge Computing** 
 - 🚀 Interested in **Autonommous Software Engineering**, **Aerospace Engineering**, and **Machine Learning**
 - 💼 Open to job opportunities and collaborations
