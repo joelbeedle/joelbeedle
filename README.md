@@ -37,7 +37,7 @@ I'm a driven MEng Computer Science graduate, with a passion for software, aerosp
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,cs,rust,haskell&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,cs,rust,go&perline=14" />
   </a>
 </p>
 
