@@ -12,18 +12,18 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">MEng Computer Science Graduate</h2></summary>
-    <summary><h3 style="display: inline-block">University of York</h3></summary>
+    <summary><h2 style="display: inline-block">Software Engineer</h2></summary>
+    <summary><h3 style="display: inline-block">Bendi</h3></summary>
   </ul>
 </div>
 
 
 
-I'm a driven MEng Computer Science graduate, with a passion for software, aerospace, machine learning, swarms, and systems.
+I'm a driven Software Engineer, with a MEng degree in Computer Science. I have a real a passion for software, web, aerospace, machine learning, swarms, and systems.
 
 - 🌐 Check out my [portfolio](http://www.joelbeedle.net) and [LinkedIn](https://www.linkedin.com/in/joel-beedle-163411215/)
 - 🛠️ Languages: C/C++, Python, Java, TypeScript, C#, Rust, Haskell
-- 🧠 Currently learning about applications of **Swarm Intelligence** and **Edge Computing** 
+- 🧠 Currently learning about cloud architecture
 - 🚀 Interested in **Autonommous Software Engineering**, **Aerospace Engineering**, and **Machine Learning**
 - 💼 Open to job opportunities and collaborations
 
