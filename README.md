@@ -28,8 +28,8 @@ I'm a driven Software Engineer, with a MEng degree in Computer Science. I have a
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelbeedle&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelbeedle&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact)
+![My GitHub Stats](https://github-readme-stats-omega-silk-72.vercel.app/api?username=joelbeedle&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats-omega-silk-72.vercel.app/api/top-langs/?username=joelbeedle&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact&exclude_repo=year1)
 
 ## 🛠️ Technologies & Tools
 
