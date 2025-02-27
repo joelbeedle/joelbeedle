@@ -24,7 +24,7 @@ I'm a driven Software Engineer, with a MEng degree in Computer Science. I have a
 - 🌐 Check out my [portfolio](http://www.joelbeedle.net) and [LinkedIn](https://www.linkedin.com/in/joel-beedle-163411215/)
 - 🛠️ Languages: C/C++, Python, Java, TypeScript, C#, Rust, Haskell
 - 🧠 Currently learning about cloud architecture
-- 🚀 Interested in **Autonommous Software Engineering**, **Aerospace Engineering**, and **Machine Learning**
+- 🚀 Interested in **Autonomous Systems Engineering**, **Aerospace Engineering**, **Full Stack Development**, and **AI**
 
 ## 📈 GitHub Stats
 
