@@ -17,8 +17,6 @@
   </ul>
 </div>
 
-
-
 I'm a driven Software Engineer, with a MEng degree in Computer Science. I have a real a passion for software, web, aerospace, machine learning, swarms, and systems.
 
 - 🌐 Check out my [portfolio](http://www.joelbeedle.net) and [LinkedIn](https://www.linkedin.com/in/joel-beedle-163411215/)
