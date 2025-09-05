@@ -42,7 +42,7 @@ I'm a driven Software Engineer, with a MEng degree in Computer Science. I have a
 <p align="center"><b>Frameworks</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,spring,django,dotnet,react,nextjs,express&perline=14" />
+    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow,spring,django,dotnet,react,nextjs,express&perline=14" />
   </a>
 </p>
 
