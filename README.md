@@ -7,7 +7,7 @@
   </ul>
 </div>
 <div align="center">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/backup_original/resources/grid-snake.svg" alt="snake">
 </div>
 
 <div id="user-content-toc">
@@ -23,12 +23,6 @@ I'm a driven Software Engineer, with a MEng degree in Computer Science. I have a
 - 🛠️ Languages: C/C++, Python, Java, TypeScript, C#, Rust, Haskell
 - 🧠 Currently learning about cloud architecture
 - 🚀 Interested in **Autonomous Systems**, **Aerospace Engineering**, **Full Stack Development**, and **AI**
-
-## 📈 GitHub Stats
-
-![Most Used Languages](https://github-readme-stats-omega-silk-72.vercel.app/api/top-langs/?username=joelbeedle&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact&exclude_repo=year1,github-readme-stats,anuraghazra.github.io)
-![My GitHub Stats](https://github-readme-stats-omega-silk-72.vercel.app/api?username=joelbeedle&show_icons=true&theme=tokyonight)
-<!-- ![WakaTime Stats](https://github-readme-stats-omega-silk-72.vercel.app/api/wakatime?username=joelbeedle&theme=tokyonight&layout=compact) -->
 
 ## 🛠️ Technologies & Tools
 
